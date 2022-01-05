@@ -1,7 +1,7 @@
 # US Anti-Narcotics Funding of Mexico
 Exploring United States foreign aid to Mexico in conjunction with cartel violence.
 
-##Table of Contents
+## Table of Contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 
